@@ -1,0 +1,14 @@
+my-golden-apple-plugin/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── example/
+│       │           └── goldenapple/
+│       │               └── GoldenApplePlugin.java
+│       └── resources/
+│           └── plugin.yml
+└── pom.xml
